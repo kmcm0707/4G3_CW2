@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+.ruff_cache
+
+# Tex
+*.aux
+*.log
+*.run.xml
+*.bbl
+*.bcf
+*.fls
+*.fdb_latexmk
+*.synctex.gz
